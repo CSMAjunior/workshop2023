@@ -5,3 +5,5 @@ Repository for the 2023 CSMA junior workshop, held at Conservatoire national des
 The workshop was sponsored by Total Energies OneTech.
 
 Website: https://csmajuniors2023.sciencesconf.org
+
+**Checkout all the branches to access the content of the workshop**
